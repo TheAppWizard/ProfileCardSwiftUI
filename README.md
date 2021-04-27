@@ -2,4 +2,4 @@
 Profile Card made with SwiftUI
 
 
-![Image of Profile Card](https://octodex.github.com/images/yaktocat.png)
+![Image of Profile Card](https://github.com/TheAppWizard/ProfileCardSwiftUI)
